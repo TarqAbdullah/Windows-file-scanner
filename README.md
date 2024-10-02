@@ -3,7 +3,7 @@ https://youtu.be/eLXjxk4eA_M
 
 ---
 
-# Abnormal File Scanner with VirusTotal Integration
+# Windows File Scanner with VirusTotal Integration
 
 This project provides a two-part solution for scanning files in a specified directory for abnormal file extensions, calculating their SHA256 hashes, and then analyzing those hashes with the **VirusTotal API**. The results are exported to an Excel file for easy review.
 
