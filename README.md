@@ -1,8 +1,6 @@
 YT Tutorial:
 https://youtu.be/eLXjxk4eA_M
 
-Sure! Below is a GitHub-friendly description for your **README.md** file, explaining how both the PowerShell and Python scripts work together, and how users can utilize them in their project:
-
 ---
 
 # Abnormal File Scanner with VirusTotal Integration
