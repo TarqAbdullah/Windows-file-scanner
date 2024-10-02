@@ -28,7 +28,7 @@ This project provides a two-part solution for scanning files in a specified dire
 ### Step 1: Clone the Repository
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/abnormal-file-scanner.git](https://github.com/TarqAbdullah/Windows-file-scanner.git
+git clone https://github.com/TarqAbdullah/Windows-file-scanner.git
 cd Windows-file-scanner
 ```
 
